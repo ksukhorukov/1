@@ -1,0 +1,22 @@
+body { 
+  background-color: #FFFFFF; 
+  background-image: url('background.jpeg');
+  align-content: center;
+  vertical-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+#center {
+  font-weight: bold;
+  font-family: helvetica;
+  color: #ea1387;
+  font-size: 6em;
+  width: 50%;
+  height: 50%;
+  margin-left: 20%;
+  padding-top: 10%;
+  padding-left: 20%;
+  margin: auto;
+}
+
