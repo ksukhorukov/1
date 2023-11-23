@@ -1,5 +1,6 @@
 body {
   background-image: url('./Rene-Magritte-The-Banquet.jpg');
+  background-position-x: 120px;
   background-size: cover;
   background-repeat: no-repeat;
   background-size: 115%;
@@ -10,14 +11,15 @@ body {
 }
 
 .upper_label {
-  margin-left: 24%;
+  margin-top: -5%;
+  margin-left: 25%;
 /*  border-color: blue;
   border-style: solid;*/
 }
 
 .bottom_label {
   margin-top: -5%;
-  margin-left: 6%;
+  margin-left: 0%;
 /*  border-color: blue;
   border-style: solid;*/
 }
@@ -33,19 +35,19 @@ body {
 }
 
 #she {
-  font-size: 25em;
+  font-size: 30em;
 }
 
 #revo_pizdec {
-  font-size: 20em;
-}
-
-#v {
   font-size: 25em;
 }
 
+#v {
+  font-size: 30em;
+}
+
 #echernee {
-  font-size: 20em;
+  font-size: 25em;
 }
 
 .gradient-text {
