@@ -1,0 +1,25 @@
+body {
+  background-color: red;
+  width: 100%;
+  height: 100%;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+.black_container {
+  color: black;
+  margin-top: 5%;
+  margin-left: 20%;
+  font-weight: bold;
+  letter-spacing: 13px;
+  width: 100%;
+  height: 100%;
+}
+
+#she {
+  font-size: 25em;
+}
+
+#r {
+  font-size: 15em;
+}
