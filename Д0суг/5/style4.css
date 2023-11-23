@@ -1,0 +1,19 @@
+body {
+  background-color: red;
+}
+
+.black_container {
+  color: black;
+  margin-top: 5%;
+  margin-left: 15%;
+  font-weight: bold;
+  letter-spacing: 13px;
+}
+
+#pi {
+  font-size: 25em;
+}
+
+#rest {
+  font-size: 15em;
+}
