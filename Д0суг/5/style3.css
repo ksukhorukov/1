@@ -1,11 +1,45 @@
-.black_container {
+body {
+  color: #7209b7;
+  font-family: Garamond;
+}
 
+.black_container {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  vertical-align: center;
+  align-content: center;
+  margin: 0px 0px 0px 0px;
+  padding: 5% 1% 1% 1%;
 }
 
 .red_container {
-
+  background-color: red;
+  margin-bottom: 5%;
+  margin-right: 5%;
+  margin-left: 5%;
+  width: 90%;
+  height: 80%;
 }
 
 .yellow_container {
+  background-color: yellow;
+  width: 80%;
+  height: 80%;
+  padding-left: 5%;
+  padding-top: 5%;
+}
 
+#pi {
+  padding-right: 8px;
+}
+
+#pi {
+  font-size: 25em;
+  padding-right: 8px;
+}
+
+#rest {
+  font-size: 12em;
+  font-weight: bold;
 }

@@ -1,11 +1,19 @@
-.black_container {
-
+body {
+  background-color: black;
 }
 
-.red_container {
-
+.white_container {
+  color: black;
+  margin-top: -10%;
+  padding-left: 10%;
+  font-weight: bold;
+  letter-spacing: 13px;
 }
 
-.yellow_container {
+#pi {
+  font-size: 38em;
+}
 
+#rest {
+  font-size: 16em;
 }
