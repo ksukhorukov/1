@@ -8,3 +8,7 @@ body {
   padding-top: 5%;
   padding-left: 5%;
 }
+
+.message {
+  text-transform: uppercase;
+}
