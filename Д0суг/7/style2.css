@@ -1,0 +1,30 @@
+body {
+  background-image: url('./background.jpg');
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  align-content: center;
+  vertical-align: center;
+}
+
+.white_container {
+  color: white;
+  margin-top: 15%;
+  margin-left: 10%;
+  font-weight: bold;
+  letter-spacing: 13px;
+  width: 100%;
+  height: 100%;
+}
+
+#message1 {
+  font-size: 15em;
+  text-transform: uppercase;
+}
+
+#message2 {
+  font-size: 15em;
+  text-transform: uppercase;
+}
