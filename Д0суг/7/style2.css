@@ -11,7 +11,7 @@ body {
 
 .white_container {
   color: white;
-  margin-top: 15%;
+  margin-top: 3%;
   margin-left: 13%;
   font-weight: bold;
   letter-spacing: 13px;
@@ -19,12 +19,20 @@ body {
   height: 100%;
 }
 
-#message1 {
-  font-size: 15em;
+.messages {
+  font-size: 13em;
   text-transform: uppercase;
 }
 
-#message2 {
-  font-size: 15em;
-  text-transform: uppercase;
+#message1 {
+  
 }
+
+#message2 {
+ 
+}
+
+#message3 {
+ 
+}
+
