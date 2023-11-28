@@ -1,0 +1,19 @@
+body {
+  margin-left: 8%;
+  margin-top: 18%;
+}
+
+#void {
+  width: 50%;  
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+
+}
+
+#text {
+  font-size: 13em;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: serif;
+}
