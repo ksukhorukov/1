@@ -1,0 +1,48 @@
+body {
+  margin-left: 10%;
+  margin-top: 18%;
+  color: white;
+  background-color: black;
+}
+
+#sigma {
+  width: 50%;  
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+#text {
+  font-size: 13em;
+  font-weight: bold;
+  font-style: italic;
+  text-transform: uppercase;
+  font-family: serif;
+}
+
+#under_div {
+  margin-top: -3em;
+  margin-left: 2em;
+}
+
+#under_text {
+  font-size: 2em;
+  font-weight: bold;
+  font-style: italic;
+  text-transform: lowercase;
+  font-family: serif;
+}
+
+#upper_div {
+  margin-bottom: -2em;
+  margin-left: 3em;
+}
+
+#upper_text {
+  font-size: 2em;
+  font-weight: bold;
+  font-style: italic;
+  text-transform: lowercase;
+  font-family: serif;
+}
+
