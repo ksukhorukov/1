@@ -1,5 +1,13 @@
-body {
+@font-face {
+  font-family: 'runaway';
+  src: url('font.otf') format('otf')
+}
 
+body {
+  font-family: 'runaway', Arial, sans-serif;
+  font-weight: bold;
+  background-color: #E9444B; 
+  color: white;
 }
 
 #runaway {
