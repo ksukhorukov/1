@@ -32,11 +32,11 @@ video {
 }
 
 .overlay h2 {
-    background: #000 none repeat scroll 0 0;
+    background: #000000 none repeat scroll 0 0;
     color: tan;
-    margin: 2rem 3rem 0;
+    margin: -0.6em 1em 0;
     mix-blend-mode: overlay;
-    padding: 5px 15px;
+    padding: 0.5em 2em ;
     text-align: center;
 }
 
