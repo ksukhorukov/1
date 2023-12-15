@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  background-color: #000000; 
+  color: white;
+}
+
+#track_id {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  margin-left: 8%;
+  text-transform: uppercase;
+  font-size: 5em;
+  width: 100%;
+}
